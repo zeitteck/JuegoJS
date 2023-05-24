@@ -1,0 +1,21 @@
+*{
+    font-family: Monaco,Consolas,Lucida Console,monospace; 
+}
+body{
+    background-image: url(../media/Grass_Sample.png);
+ }
+ footer{
+    position: absolute;
+    /* bottom: auto; */
+    width: 100%;
+    margin-top: 50px;
+}
+.botonsIdiomes{
+    float: right; 
+    height: 35px; 
+    width: 40px;
+  }
+  .botonGeneral{
+    margin-right: 75px;
+    margin-top: 10px;
+  }

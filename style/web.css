@@ -1,0 +1,68 @@
+@import url('https://fonts.cdnfonts.com/css/atari');
+*{
+        font-family: Monaco,Consolas,Lucida Console, monospace; 
+}
+body{
+    background-image: url(../media/brick.png); 
+    background-size: 100px;
+}
+p,ul,li{
+    font-size: 17px;
+}
+p{
+    text-align: justify;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #30BE99;
+}
+#accessGame{
+    margin-top: 90px;
+}
+
+.container{
+    margin-top: 50px;
+    background-color: bisque;
+    opacity: 0.9;
+}
+#ranking{
+    background-color: #30BE99;
+    font-family:Atari, sans-serif; 
+    font-size: 50px;
+    text-decoration: none;
+    color:white;
+    
+}
+footer{
+    position: absolute;
+    bottom: auto;
+    width: 100%;
+    margin-top: 50px;
+}
+.fotosticker{
+    width: 165px;
+    height: 150px;
+}
+
+#imagenHotel{
+    background-image: url(../media/hotelF.JPG);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+.botonsIdiomes{
+    float: right; 
+    height: 35px; 
+    width: 40px;
+}
+.botonGeneral{
+    margin-right: 75px;
+    margin-top: 10px;
+}
+#loginM{
+    background-color: #30BE99;
+    font-family:Atari, sans-serif; 
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+}
